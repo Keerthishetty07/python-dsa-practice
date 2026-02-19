@@ -1,4 +1,5 @@
 # Python DSA Practice
+
 This repository documents my journey of learning Python and Data Structures.
 
 ## Topics Covered
